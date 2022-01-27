@@ -29,9 +29,10 @@ Thanks for stopping by! I'm a self taught iOS developer and I reside outside of 
 ![](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
 ![](https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=Xcode&logoColor=147EFB)
  
-[![Aryb Runs](https://github-readme-stats.vercel.app/api?username=arbyruns)](https://github.com/arbyruns/github-readme-stats&count_private=true)
+[![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=arbyruns&show_icons=true&theme=synthwave)](https://github.com/arbyruns/github-readme-stats)
 
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arbyruns&theme=synthwave)](https://github.com/arbyruns/github-readme-stats)
+
 <!--
 resources:
 https://github.com/anuraghazra/github-readme-stats
