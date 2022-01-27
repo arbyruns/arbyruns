@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Thanks for stopping by! I'm a self taught iOS developer and I reside outside of Charlotte, NC. For the last 3 years I've released a handful of apps and with each one I learn something new and question what I was doing in the last app I developed 😀.
+
+🔭 I’m currently working on [MilHub](https://milhub.app/).
+
+🌱 I’m currently learning more indepth parts of Swift 
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/revansii/) or [The bird app](https://twitter.com/rb_e2)
+
+⚡ Fun fact: I like to run
+
 <!--
 **arbyruns/arbyruns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
